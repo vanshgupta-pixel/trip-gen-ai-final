@@ -1,0 +1,6 @@
+TripGenie AI backend
+
+This archive contains the Python backend only. The virtual environment and compiled/cache files have been excluded.
+Create a virtual environment and install dependencies from backend/requirements.txt.
+Run locally from the backend directory with: uvicorn main:app --reload
+Review render.yaml before deploying and ensure its paths/build settings match this archive.

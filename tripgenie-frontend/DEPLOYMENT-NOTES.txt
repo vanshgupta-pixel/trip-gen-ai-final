@@ -1,0 +1,8 @@
+TripGenie AI frontend
+
+This archive contains the React/Vite frontend only.
+Install dependencies with: npm install
+Run locally with: npm run dev
+Build with: npm run build
+
+For production, set VITE_API_URL to the public URL of the deployed backend.
